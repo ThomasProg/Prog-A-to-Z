@@ -45,7 +45,7 @@ but sleeping is nice too
 
 In other programming languages, backlines and spaces are actually ignored.\
 To separate instructions, we use the ";" character.\
-Instructions are ran from left to right.\
+Instructions are running from left to right.\
 However, since backlines are ignored, writing from top to bottom also work, as long as we put the ";" character after each instruction.
 
 \
