@@ -12,7 +12,7 @@ Let's go back in history.\
 Industrial revolution was already booming.\
 Science was used to create steam locomotive, new types of buildings, etc.\
 Items starting to be mass produced.\
-All of these things required simple maths computations:
+All of these things required simple math computations:
 - additions
 - substractions
 - multiplications
