@@ -46,7 +46,7 @@ int main()
 This is an easy way to count from 0 to 100.
 
 \
-While loops are actually the most importants, because you can do what other kinds of loops do with these.\
+While loops are actually the most important, because you can do what other kinds of loops do with these.\
 Even if you don't learn other loops, learn this one.
 
 ## Exercises (1)

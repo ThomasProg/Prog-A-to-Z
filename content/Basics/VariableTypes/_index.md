@@ -17,13 +17,13 @@ print(a + b)
 It will show an error.
 
 \
-The reason is, something called *types* exist.\
+The reason is, something called *types* exists.\
 In the memory, types are treated differently and they possess different operations.\
 It makes sense that we can't add a string and a number.\
 
 \
 In Python, types are mostly implicit.\
-However, in other languages, they are explicited.\
+However, in other languages, they are explicit.\
 That way, the programmer *knows* what type of data a variable contains.
 
 C++:
