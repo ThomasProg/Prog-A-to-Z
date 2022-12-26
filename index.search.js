@@ -48,7 +48,7 @@ It will only makes it easier for you to understand, and not harder.
 Industrial revolution was already booming.
 Science was used to create steam locomotive, new types of buildings, etc.
 Items starting to be mass produced.
-All of these things required simple maths computations:
+All of these things required simple math computations:
 additions substractions multiplications and others The problem is, there were a LOT of them, and one error could be fatal.
 Computers were made to solve that problem.
 People could run operations, and the computer would print, display the result, on a terminal.
