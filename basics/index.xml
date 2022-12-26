@@ -36,11 +36,11 @@ If we go the way we did before, it means we should take the formula, replace a, 
 For this example, it is a bit long but feasible.
 However, imagine doing that with a formula even longer.</description></item><item><title>Variables types</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/variabletypes/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/variabletypes/index.html</guid><description>Lesson Try running the following code in python:
 a = &amp;#34;Hello &amp;#34; b = 3 print(a + b) It will show an error.
-The reason is, something called types exist.
+The reason is, something called types exists.
 In the memory, types are treated differently and they possess different operations.
 It makes sense that we can&amp;rsquo;t add a string and a number.\
 In Python, types are mostly implicit.
-However, in other languages, they are explicited.
+However, in other languages, they are explicit.
 That way, the programmer knows what type of data a variable contains.</description></item><item><title>Functions</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/functions/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/functions/index.html</guid><description>Simple Functions Calling a function is equivalent to replace the call by what is inside the function.
 def MyFunction(): print(&amp;#34;Hello&amp;#34;) MyFunction() MyFunction() MyFunction() is equivalent to:
 print(&amp;#34;Hello&amp;#34;) print(&amp;#34;Hello&amp;#34;) print(&amp;#34;Hello&amp;#34;) It is the same for any language.

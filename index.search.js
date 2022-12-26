@@ -151,11 +151,11 @@ a = 5 a = 8 a = a + 2 print(a) What will be displayed?
 Once you think you know, run the code on repl.it and try to understand what happens.
 `,description:"",tags:null,title:"Variable",uri:"/basics/variables/index.html"},{content:` Lesson Try running the following code in python:
 a = "Hello " b = 3 print(a + b) It will show an error.
-The reason is, something called types exist.
+The reason is, something called types exists.
 In the memory, types are treated differently and they possess different operations.
 It makes sense that we can’t add a string and a number.\\
 In Python, types are mostly implicit.
-However, in other languages, they are explicited.
+However, in other languages, they are explicit.
 That way, the programmer knows what type of data a variable contains.
 C++:
 #include \u003ciostream\u003e #include \u003cstring\u003e int main() { std::string myStringValue = "Hello "; // multiple characters int myIntegerValue = -3; // an integer, that can be negative or positive bool myBooleanValue = false; // a boolean, being either true or false float myFloatingPointValue = 4.3f; // a decimal number, negative or positive char myCharacterValue = 'o'; // a character from the ascii table } As you saw, std::string is a bit special.
@@ -291,7 +291,7 @@ While While loops are the easiest to understand.
 While the condition is true, we run the code that is inside the next scope.
 Once it is false, we continue to run the code that is past the scope.
 # python i = 0 while (i \u003c 1000): print(i) i = i + 1 // C++ #include \u003ciostream\u003e int main() { int i = 0 // Exactly the same syntax in C, C#, Java... while (i \u003c 1000) { std::cout \u003c\u003c i \u003c\u003c std::endl; i = i + 1; } } This is an easy way to count from 0 to 100.
-While loops are actually the most importants, because you can do what other kinds of loops do with these.
+While loops are actually the most important, because you can do what other kinds of loops do with these.
 Even if you don’t learn other loops, learn this one.
 Exercises (1) Exercise 1 Make a program that prints numbers from 100 to 0 (in a reverse order).
 Exercise 2 Make a program that asks the user to enter a number, until this number is 5.
