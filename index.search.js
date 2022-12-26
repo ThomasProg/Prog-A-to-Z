@@ -99,7 +99,7 @@ Even programmers who’ve been coding for 30 years still have them.
 The goal of the error message is to tell you the problem, so that you can fix it.
 In this case, try to see what the problem is.
 A specific page will be dedicated to errors.
-] You are ready to start programming.
+You are ready to start programming.
 `,description:"",tags:null,title:"Where to code",uri:"/introduction/where-to-code/index.html"},{content:` Lesson In python, try executing the following code:
 Displays "I love yogurts" on the terminal print("I love yogurts") It displays an error, because the language doesn’t recognize what you wrote as valid instructions.
 Now, try executing this:
