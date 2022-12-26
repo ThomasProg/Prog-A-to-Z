@@ -54,7 +54,7 @@ In this case, try to see what the problem is.
 \
 A specific page will be dedicated to errors.
 
-\]
+\
 You are ready to start programming.
 
 
