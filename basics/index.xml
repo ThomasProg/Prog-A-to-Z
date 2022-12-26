@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Basics on Documentation for Hugo Learn Theme</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/index.html</link><description>Recent content in Basics on Documentation for Hugo Learn Theme</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 17:25:53 +0100</lastBuildDate><atom:link href="https://thomasprog.github.io/Prog-A-to-Z/basics/index.xml" rel="self" type="application/rss+xml"/><item><title>Print</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/print/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/print/index.html</guid><description>Lesson Let&amp;rsquo;s go back in history.
+Industrial revolution was already booming.
+Science was used to create steam locomotive, new types of buildings, etc.
+Items starting to be mass produced.
+All of these things required simple maths computations:
+additions substractions multiplications and others The problem is, there were a LOT of them, and one error could be fatal.
+Computers were made to solve that problem.
+People could run operations, and the computer would print, display the result, on a terminal.</description></item><item><title>Execution Order</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/executionorder/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/executionorder/index.html</guid><description>Execution order in Python Programmers use languages to write instructions.
+However, these instructions are usually ordered.
+In python, order is done from up to bottom.
+Run the following code:
+print(&amp;#34;Hello&amp;#34;) print(&amp;#34;world!&amp;#34;) As you can see in the terminal, &amp;ldquo;Hello&amp;rdquo; is first printed, and then &amp;ldquo;world!&amp;rdquo; is printed.
+Exercises 1. Display the following on the terminal:
+Coding is fun 2. Display the following on the terminal:
+Coding is fun but sleeping is nice too Execution order in other languages In other programming languages, backlines and spaces are actually ignored.</description></item><item><title>Comments</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/comments/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/comments/index.html</guid><description>Lesson In python, try executing the following code:
+Displays &amp;#34;I love yogurts&amp;#34; on the terminal print(&amp;#34;I love yogurts&amp;#34;) It displays an error, because the language doesn&amp;rsquo;t recognize what you wrote as valid instructions.
+Now, try executing this:
+# Displays &amp;#34;I love running&amp;#34; on the terminal print(&amp;#34;I love running&amp;#34;) It works, and the line with the # is ignored.
+This is called a comment, and is useful to&amp;hellip; comment your code.</description></item><item><title>Entry Point</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/entrypoint/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/entrypoint/index.html</guid><description>Lesson As you might have noticed in the last chapter, in C++, there are other things other than the print instruction.
+In Python, we can just write the code directly.
+However, in other languages, there is an &amp;ldquo;entry point&amp;rdquo;.
+This is where the program starts.
+Each program has an entry point.
+In C, C++, C# and Java, it is the main() or Main() function.
+It means that even if you put code before the main() function, it will not be called first.</description></item><item><title>Operations on numbers</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/operations/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/operations/index.html</guid><description>Exercises Imagine being in the XXth century.
+You want to compute 34844 - 343788 / 4 + (284937 + 4389472) * 24.
+However, it is quite bothersome to compute that by hand.
+You decide to use a computer for that.
+You first test the computer by writing the following code:
+print(2+5) print(4*2 + 1) print(4*(2 + 1)) As expected, it returns 7, 9, and then 12.
+Compute 34844 - 343788 / 4 + (284937 + 4389472) * 24 in Python.</description></item><item><title>Variable</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/variables/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/variables/index.html</guid><description>Exercise You are a mathematician.
+You finished computing the formula you want to use.
+You say:
+&amp;ldquo;Let&amp;rsquo;s a=23448, b=8754, c=(a + b) / 4. I want to compute d = 3*c - (c+8) + c*10
+If we go the way we did before, it means we should take the formula, replace a, b and c.
+For this example, it is a bit long but feasible.
+However, imagine doing that with a formula even longer.</description></item><item><title>Variables types</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/variabletypes/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/variabletypes/index.html</guid><description>Lesson Try running the following code in python:
+a = &amp;#34;Hello &amp;#34; b = 3 print(a + b) It will show an error.
+The reason is, something called types exist.
+In the memory, types are treated differently and they possess different operations.
+It makes sense that we can&amp;rsquo;t add a string and a number.\
+In Python, types are mostly implicit.
+However, in other languages, they are explicited.
+That way, the programmer knows what type of data a variable contains.</description></item><item><title>Functions</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/functions/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/functions/index.html</guid><description>Simple Functions Calling a function is equivalent to replace the call by what is inside the function.
+def MyFunction(): print(&amp;#34;Hello&amp;#34;) MyFunction() MyFunction() MyFunction() is equivalent to:
+print(&amp;#34;Hello&amp;#34;) print(&amp;#34;Hello&amp;#34;) print(&amp;#34;Hello&amp;#34;) It is the same for any language.
+In C:
+#include &amp;lt;iostream&amp;gt; void MyFunction() { std::cout &amp;lt;&amp;lt; &amp;#34;Hello&amp;#34; &amp;lt;&amp;lt; std::endl; } int main() { MyFunction(); MyFunction(); MyFunction(); } is equivalent to:
+#include &amp;lt;iostream&amp;gt; int main() { std::cout &amp;lt;&amp;lt; &amp;#34;Hello&amp;#34; &amp;lt;&amp;lt; std::endl; std::cout &amp;lt;&amp;lt; &amp;#34;Hello&amp;#34; &amp;lt;&amp;lt; std::endl; std::cout &amp;lt;&amp;lt; &amp;#34;Hello&amp;#34; &amp;lt;&amp;lt; std::endl; } You might also notice that main() is, in itself, a function.</description></item><item><title>Inputs</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/inputs/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/inputs/index.html</guid><description>Lesson As users, we are not making a program.
+For the program to behave differently, depending on the user, specific functions exist.
+At first, users only had a terminal.
+Messages were displayed there, and to navigate through it, they entered special words or numbers as inputs.
+Reading from a terminal is an easy way to get an input.
+The same as print(), every language has a way to read the input of the user from a terminal.</description></item><item><title>Scopes</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/scopes/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/scopes/index.html</guid><description>Lesson A &amp;ldquo;scope&amp;rdquo; is what defines the lifetime of a variable.
+Let&amp;rsquo;s take a function as an example.
+def Bar(): i = 5 print(i) This program will not work, because the variable i is defined in the function scope, and is not available elsewhere.\
+In Python, scopes are defined as indentations.
+Every time a new scope is created, we had a space before each line.
+Instructions in the same scope should all be aligned together.</description></item><item><title>Conditions</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/conditions/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/conditions/index.html</guid><description>If / Else As the name states, in your code, you can put conditions.
+An obvious way to use those is when putting passwords.
+codeUser = int(input()) if (codeUser == 398471): # if the code is equal to 398471 print(&amp;#34;The money is under the red flower in the garden.&amp;#34;) else: print(&amp;#34;You little thief! Don&amp;#39;t try to steal my money!&amp;#34;) No matter the language, we usually use the if / else keywords.</description></item><item><title>Lists</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/lists/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/lists/index.html</guid><description>Introduction Sometimes, we want to have a lot of variables.
+For example, we might want to have a list of the names of those attending to a certain party.
+The problem is, if it is a lot, we won&amp;rsquo;t make a variable for each one of those.
+Especially if that number depends on an input; in that case, it is impossible.
+This is the problem lists and arrays can solve.</description></item><item><title>Loops</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/loops/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/loops/index.html</guid><description>Introduction &amp;ldquo;Print all the numbers from 0 to 1000&amp;rdquo;.
+If we only code with what we&amp;rsquo;ve seen until now, we would have to to write around 1000 lines for that (or 30 if you&amp;rsquo;re really smart).
+However, loops exist to make our life easier.
+Different kinds of loops exist.
+While While loops are the easiest to understand.
+While the condition is true, we run the code that is inside the next scope.</description></item><item><title>Classes</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/classes/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/classes/index.html</guid><description> Classes</description></item><item><title>References</title><link>https://thomasprog.github.io/Prog-A-to-Z/basics/references/index.html</link><pubDate>Sun, 25 Dec 2022 22:57:00 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/basics/references/index.html</guid><description>References in Object Oriented Programming languages In Python, C#, Java, and other languages, references are implicit.
+class MyClass: a = 4 b = 2 myInstance = MyClass() myReference = myInstance class MyClass { public int a; public int b; }; class Foo { static void main(string[] args) { MyClass myInstance = new MyClass(); myReference = myInstance; } }; In C++, you have to put the &amp;amp; character just after the type.</description></item></channel></rss>

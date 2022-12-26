@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Documentation for Hugo Learn Theme</title><link>https://thomasprog.github.io/Prog-A-to-Z/introduction/index.html</link><description>Recent content in Introduction on Documentation for Hugo Learn Theme</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 17:25:53 +0100</lastBuildDate><atom:link href="https://thomasprog.github.io/Prog-A-to-Z/introduction/index.xml" rel="self" type="application/rss+xml"/><item><title>Languages</title><link>https://thomasprog.github.io/Prog-A-to-Z/introduction/languages/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/introduction/languages/index.html</guid><description>A programmer gives instructions for the machine to execute.
+However, the machine is, by nature, just a list of bytes and data.
+At first, programmers used punched cards to send directly bytes to the machine.
+TODO : insert punchcard pic here
+Since then, screens and keyboards have been created.
+Computers could type their bytes directly on a keyboard.
+Typing 0 and 1 is not that fun however.
+We quickly decided to replace them by &amp;ldquo;words&amp;rdquo; to make it easier.</description></item><item><title>Where to code</title><link>https://thomasprog.github.io/Prog-A-to-Z/introduction/where-to-code/index.html</link><pubDate>Sun, 11 Dec 2022 17:25:53 +0100</pubDate><guid>https://thomasprog.github.io/Prog-A-to-Z/introduction/where-to-code/index.html</guid><description>Usually, to code, you need a software to convert the language into assembly for the machine to understand.
+However, at first, no need to install anything.
+You can just go on https://repl.it/ .
+Go there.
+At the bottom of the front page, you can select the language you want to use.
+Select Python.
+You should now see the following page:
+TODO : insert punchcard pic here
+Click on the green button.</description></item></channel></rss>
