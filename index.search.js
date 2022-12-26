@@ -16,15 +16,13 @@ Then, click here.
 `,description:"",tags:null,title:"Introduction",uri:"/introduction/index.html"},{content:`A programmer gives instructions for the machine to execute.
 However, the machine is, by nature, just a list of bytes and data.
 At first, programmers used punched cards to send directly bytes to the machine.
-TODO : insert punchcard pic here
-Since then, screens and keyboards have been created.
+Punchcard Since then, screens and keyboards have been created.
 Computers could type their bytes directly on a keyboard.
 Typing 0 and 1 is not that fun however.
 We quickly decided to replace them by “words” to make it easier.
 These words will then be replaced by the machine to their corresponding bytes. This is what assembly is.
-TODO : insert assembly pic here
-Assembly was nice, but still complicated.
-More than all: it is specific to the instructions of a particular machine.
+org 0x100 mov dx, msg mov ah, 9 int 0x21 mov ah, 0x4c int 0x21 msg db 'Hello, World!', 0x0d, 0x0a, '$' Assembly was better, but still complicated.
+More than all: it is specific to the instructions of a specific machine.
 Running the same assembly on a different machine would not work.
 This is where languages appeared.
 The goal of languages is to:
@@ -58,7 +56,8 @@ Today, terminals are not used much.
 We use our mouse to navigate through the desktop, our browser, and our applications instead.
 However, terminals are nice to debug things and to learn how to code.
 The reason is, in every language, there is a way to display a message easily on a terminal.
-Exercises On repl.it, no matter the language, a default code displaying “Hello world!” should be there by default.
+In python:
+print("Hello world!") Exercises On repl.it, no matter the language, a default code displaying “Hello world!” should be there by default.
 Try displaying “I will be the best!” in Python, C, C++, C#, and Java.
 `,description:"",tags:null,title:"Print",uri:"/basics/print/index.html"},{content:` Prog-A-to-Z Basics The basics you have to know, no matter the language.
 `,description:"",tags:null,title:"Basics",uri:"/basics/index.html"},{content:` Execution order in Python Programmers use languages to write instructions.
@@ -85,8 +84,7 @@ Go there.
 At the bottom of the front page, you can select the language you want to use.
 Select Python.
 You should now see the following page:
-TODO : insert punchcard pic here
-Click on the green button.
+Repl.it Click on the green button.
 On the right, “Hello world!” should get displayed on the right panel.
 Try to guess what the following code does:
 print("It works!") After that, copy and paste it on the website (replacing the previous code). Press the green button once again.
