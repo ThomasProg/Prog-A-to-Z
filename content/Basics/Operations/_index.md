@@ -35,7 +35,7 @@ On numbers, the following operations exist between numbers:
 
 \
 Just like in mathematics : 
-- Mulitplication and division takes priority
+- Mulitplication and division take priority
 - You can add parentheses to tell which operations should be first
 
 \
