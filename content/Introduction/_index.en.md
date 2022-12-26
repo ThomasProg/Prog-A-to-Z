@@ -26,7 +26,7 @@ Some might use it to improve the medical field and save lives.
 \
 But more than that, programming is fun.\
 Just think of it as a puzzle game.\
-Just go at your own rythm and enjoy.
+Just go at your own rhythm and enjoy.
 
 \
 Ready to start your journey?\
