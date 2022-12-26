@@ -45,7 +45,7 @@ Mainly:
 Python C C++ C# Java If you are here to learn only one language, like Python, don’t worry.
 It will only makes it easier for you to understand, and not harder.
 `,description:"",tags:null,title:"Languages",uri:"/introduction/languages/index.html"},{content:` Lesson Let’s go back in history.
-Industrial revolution was already booming.
+The industrial revolution was already booming.
 Science was used to create steam locomotive, new types of buildings, etc.
 Items starting to be mass produced.
 All of these things required simple math computations:
