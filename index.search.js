@@ -130,7 +130,7 @@ print(2+5) print(4*2 + 1) print(4*(2 + 1)) As expected, it returns 7, 9, and the
 Compute 34844 - 343788 / 4 + (284937 + 4389472) * 24 in Python.
 Rules On numbers, the following operations exist between numbers:
 to add to substract to multiply / to divide Just like in mathematics :
-Mulitplication and division takes priority You can add parentheses to tell which operations should be first These rules work with Python, C, C++, C#, Java, Javascript, PHP… and a lot more.
+Mulitplication and division take priority You can add parentheses to tell which operations should be first These rules work with Python, C, C++, C#, Java, Javascript, PHP… and a lot more.
 `,description:"",tags:null,title:"Operations on numbers",uri:"/basics/operations/index.html"},{content:` Exercise You are a mathematician.
 You finished computing the formula you want to use.
 You say:
