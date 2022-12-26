@@ -10,7 +10,7 @@ Some might use it to build weapons and kill people.
 Some might use it to improve the medical field and save lives.
 But more than that, programming is fun.
 Just think of it as a puzzle game.
-Just go at your own rythm and enjoy.
+Just go at your own rhythm and enjoy.
 Ready to start your journey?
 Then, click here.
 `,description:"",tags:null,title:"Introduction",uri:"/introduction/index.html"},{content:`A programmer gives instructions for the machine to execute.
