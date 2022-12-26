@@ -69,7 +69,7 @@ Exercises 1. Display the following on the terminal:
 Coding is fun 2. Display the following on the terminal:
 Coding is fun but sleeping is nice too Execution order in other languages In other programming languages, backlines and spaces are actually ignored.
 To separate instructions, we use the “;” character.
-Instructions are ran from left to right.
+Instructions are running from left to right.
 However, since backlines are ignored, writing from top to bottom also work, as long as we put the “;” character after each instruction.
 It means that in C++, the following programs are valid and equivalent:
 #include \u003ciostream\u003e int main() { std::cout \u003c\u003c "Hello" \u003c\u003c std::endl; std::cout \u003c\u003c "world!" \u003c\u003c std::endl; } #include \u003ciostream\u003e int main() { std::cout \u003c\u003c "Hello" \u003c\u003c std::endl; std::cout \u003c\u003c "world!" \u003c\u003c std::endl; } #include \u003ciostream\u003e int main() { std::cout \u003c\u003c "Hello" \u003c\u003c std::endl ; std::cout \u003c\u003c "world!" \u003c\u003c std::endl ; } However, the code we write must be easily understandable by others.
