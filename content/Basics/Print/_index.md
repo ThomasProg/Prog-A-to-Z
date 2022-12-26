@@ -30,6 +30,12 @@ However, terminals are nice to debug things and to learn how to code.
 
 The reason is, in **every** language, there is a way to display a message easily on a terminal.
 
+\
+In python:
+```
+print("Hello world!")
+```
+
 ## Exercises
 
 On repl.it, no matter the language, a default code displaying "Hello world!" should be there by default.\

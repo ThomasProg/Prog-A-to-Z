@@ -30,5 +30,5 @@ Just go at your own rythm and enjoy.
 
 \
 Ready to start your journey?\
-Then, click here.
+Then, click [here](languages/).
  

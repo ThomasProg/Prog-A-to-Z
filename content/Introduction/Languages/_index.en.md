@@ -11,7 +11,11 @@ However, the machine is, by nature, just a list of bytes and data.\
 At first, programmers used punched cards to send directly bytes to the machine.
 
 \
-TODO : insert punchcard pic here
+{{< align >}}
+{{% box %}}
+![Schema](punchCards.jpg "Punchcard")
+{{% /box %}}
+{{< /align >}}
 
 \
 Since then, screens and keyboards have been created.\
@@ -21,12 +25,23 @@ We quickly decided to replace them by "words" to make it easier.\
 These words will then be replaced by the machine to their corresponding bytes.
 This is what assembly is.
 
-\
-TODO : insert assembly pic here
+
+```asm
+org  0x100        
+
+mov  dx, msg      
+mov  ah, 9       
+int  0x21        
+
+mov  ah, 0x4c    
+int  0x21        
+
+msg  db 'Hello, World!', 0x0d, 0x0a, '$' 
+```
 
 \
-Assembly was nice, but still complicated.\
-More than all: it is specific to the instructions of a particular machine.\
+Assembly was better, but still complicated.\
+More than all: it is specific to the instructions of a specific machine.\
 Running the same assembly on a different machine would not work.
 
 \

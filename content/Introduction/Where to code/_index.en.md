@@ -15,8 +15,12 @@ At the bottom of the front page, you can select the language you want to use.\
 Select Python.\
 You should now see the following page:
 
-\
-TODO : insert punchcard pic here
+{{< align >}}
+{{% box %}}
+![Schema](replit.png "Repl.it")
+{{% /box %}}
+{{< /align >}}
+
 
 \
 Click on the green button.\
