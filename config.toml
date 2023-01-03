@@ -17,7 +17,7 @@ defaultContentLanguageInSubdir = true
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Learn every aspect of programming"
 weight = 1
 languageName = "English"
 
